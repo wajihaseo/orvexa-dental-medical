@@ -1,0 +1,6 @@
+{
+  "name": "Orvexa Dental & Medical",
+  "description": "Premier dental and medical center specializing in advanced dental implants, cosmetic smile makeovers, smart patient booking, doctor availability management, automated reminders, and real-time consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
